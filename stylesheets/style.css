@@ -1,0 +1,134 @@
+/*@import url(http://fonts.googleapis.com/css?family=Rancho);*/
+/*@import url(http://fonts.googleapis.com/css?family=Condiment);*/
+/*@import url(http://fonts.googleapis.com/css?family=Sonsie+One);*/
+@import url(http://fonts.googleapis.com/css?family=Lobster&subset=latin,cyrillic-ext);
+
+body {
+	/*background: url(../images/COLOURlovers.com-Dandelions.png) repeat;*/
+	background: url(../images/wavegrid.png) repeat;
+	/*background-color: #D0D2E3;*/
+	/*background-color: #EFFAB4;;*/
+	/*background-color: #FFFFCC;*/
+	margin: 0px;
+}
+.content-container {
+	margin: 0px auto 0px auto;
+	width: 800px;
+	/*background-color: #EBE2EC;*/
+	/*background-color: #D1D3DC;*/
+	padding:20px 10px;
+	background-color: #fff;
+}
+
+#contact ul {
+	list-style: none;
+	font-size: 14px;
+	padding-top: 0px;
+	padding-left: 10px;
+	line-height: 20px;
+	font-family: sans-serif, Arial, Verdana;
+	margin-bottom: 10px;
+}
+
+}
+#contact ul li a {
+	text-decoration: none;	
+}
+.experience {
+	display: inline-block;
+	font-family: sans-serif,Arial,Verdana;
+	line-height: 20px;
+	margin: 0px 20px 0px 15px;
+}
+.date {
+	float: right;
+	display: inline-block;
+}
+.name { 
+font-family:'Lobster', cursive;
+padding-left: 10px;
+padding-top: 0px;
+}
+
+#list {
+	text-align: right;
+	float: left;
+	margin-left: 500px;
+	padding-top: -30px;
+
+}
+
+#info {
+	float: left;
+}
+
+.image {
+	float: left;
+	margin-left: 20px;
+	padding-bottom: 20px;
+}
+
+.profile {
+	padding-bottom: 15px;
+}
+
+.hr {
+	color: #000;
+	background-color: #000;
+	height: 2px;
+	border-width: 0px;
+}
+
+#description {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-size: 32px;
+}
+
+.sub-text {
+	font-family:'Lobster', cursive;
+	font-size: 24px;
+	margin: 5px 0px;
+}
+
+#strong {
+	font-weight: bold;
+}
+/*Text Style*/
+h1 {
+	font-size: 20px;
+}
+
+h2 {
+	font-size: 22px;
+	margin: 0px;
+	padding-top:20px;
+	font-family:'Lobster', cursive;
+}
+
+h3 {
+	font-size: 17px;
+	margin:0px;
+	padding-top: 10px;
+}
+h4{
+	font-size: 15px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+p {
+	font-size: 14px;
+}
+ul{
+	font-size: 13px;
+	margin-top: 10px;
+}
+a {
+	text-decoration: none;
+	color: #686471;
+}
+
+a:hover {
+	background-color: #686471;
+	color: #fff;
+}
